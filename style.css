@@ -1,0 +1,27 @@
+.body {
+    background-image: url(assets/fundo.jpg);
+ 
+    /*background-image: url(img/5192479.jpg);*/
+}
+
+
+.cabecario {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    /* background-color: red;*/
+    font-size: 35px;
+    color: white
+}
+
+.textoprincipal {
+    text-align: center;
+    color: white;
+
+}
+
+.link {
+    color: white;
+
+}
